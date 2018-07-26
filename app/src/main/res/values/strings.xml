@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StreamPlayer</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_pause">Pause</string>
+</resources>
